@@ -1,8 +1,17 @@
+## 動作方法
+
 ```bash
-yarn add typescript @types/node ts-node nodemon jest @types/jest ts-jest
+# install dependencies
+$ yarn install
+
+# build
+$ yarn start
+
+# test
+$ yarn test
 ```
 
-## 参考
+## 実行結果
 
-- [Node.js & TypeScript のプロジェクト作成](https://typescript-jp.gitbook.io/deep-dive/nodejs)
-- [Jest 導入](https://typescript-jp.gitbook.io/deep-dive/intro-1/jest)
+[動作イメージ](result.png)
+[動作イメージ](test_result.png)
